@@ -3,6 +3,7 @@
 //Author: PC 
 //Website: http://designwithpc.com
 //Twitter: http://twitter.com/chaudharyp
+//Version: 2.0.0
 
 (function ($) {
 
